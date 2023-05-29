@@ -2,7 +2,7 @@
 
 <h4>Find me online</h5>
 <div align="center">
-  <a href="https://discord.gg/honest#5968" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png" alt="honest#5968" height="40" width="40" /></a>
+  <a href="https://discord.gg/honest#5968" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" alt="honest#5968" height="40" width="40" /></a>
   <a href="https://t.me/warmheart888" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/tuts/256/telegram.png" alt="warmheart888" height="40" width="40" /></a>
 <div>
 </p>

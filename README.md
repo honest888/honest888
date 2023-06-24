@@ -1,4 +1,4 @@
-<h2 align="center">🔥 Passion Developer 🔥</h2>
+<h2 align="center">🔥 Passion Web & Mobile Developer 🔥</h2>
 
 <h4>Find me online</h5>
 <div align="center">
